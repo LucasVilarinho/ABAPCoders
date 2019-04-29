@@ -1,2 +1,2 @@
 # ABAPCoders
-Work with ABAP directly from VSCODE
+Work with ABAP directly from VSCODE.
